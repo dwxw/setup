@@ -16,7 +16,7 @@ brew upgrade
 BREW_PREFIX=$(brew --prefix)
 
 #Tools
-brew install wget --with-iri
+brew install wget
 brew install gmp
 brew install grep
 brew install node
