@@ -43,5 +43,9 @@ brew install --cask zoom
 brew install --cask slack
 brew install --cask tunnelbear
 
+# Fonts
+brew tap homebrew/cask-fonts
+brew install --cask font-fira-code
+
 # Remove outdated versions from the cellar.
 brew cleanup
